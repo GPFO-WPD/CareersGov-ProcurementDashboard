@@ -1,7 +1,7 @@
 {
-  "sha256": "04344a59c926788548810312cd34b8de4681f9aa11a464b7fafd67025fb6a46a",
-  "throughDate": "2026-11-06",
-  "sourceRows": 2105,
+  "sha256": "89d8d16a5fbb0064af5c695733aae0ad08d817d50cf5f11f63e19391facf9266",
+  "throughDate": "2026-11-09",
+  "sourceRows": 2068,
   "historySource": "upstream-replay",
   "snapshotsUsed": 346,
   "snapshotsSkipped": 0
