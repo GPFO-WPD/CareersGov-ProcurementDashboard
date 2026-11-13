@@ -1,33 +1,33 @@
 {
-  "processedThrough": "2026-11-12",
-  "processedAt": "2026-11-12T09:26:28+00:00",
+  "processedThrough": "2026-11-13",
+  "processedAt": "2026-11-13T09:25:04+00:00",
   "sourceUrl": "https://raw.githubusercontent.com/opengovsg/careersgovsg-jobs-data/main/data/job-listings.csv",
-  "sourceSha256": "48dd9f019234bf924c25035387854355a0d370d77cedaf2159ee6de8eab53b9e",
+  "sourceSha256": "26b86ae2898b1ef3c138876f85603ef8291a724e27ee45fd442fddaff1c7aa09",
   "sourceLastModified": "",
-  "sourceRows": 2111,
+  "sourceRows": 2122,
   "historySource": "upstream-replay",
   "coverageStart": "2026-02-09",
-  "coverageEnd": "2026-11-12",
+  "coverageEnd": "2026-11-13",
   "snapshotsUsed": 346,
   "snapshotsSkipped": 0,
   "runStats": {
     "snapshot": {
-      "new": 82,
-      "updated": 2029,
-      "relisted": 0,
-      "unlisted": 60,
+      "new": 104,
+      "updated": 2015,
+      "relisted": 3,
+      "unlisted": 96,
       "duplicateSkipped": 0
     },
     "classification": {
-      "procurement": 1365,
+      "procurement": 1366,
       "byBasis": {
-        "title": 349,
+        "title": 350,
         "field": 128,
         "duty_phrase": 888
       },
-      "sectorOther": 1094,
-      "careerBroad": 19378,
-      "experienceParsed": 5819
+      "sectorOther": 1095,
+      "careerBroad": 19460,
+      "experienceParsed": 5841
     }
   },
   "months": [
@@ -524,6 +524,6 @@
       ]
     }
   ],
-  "procurementCount": 1365,
-  "currentlyListedCount": 94
+  "procurementCount": 1366,
+  "currentlyListedCount": 89
 }
